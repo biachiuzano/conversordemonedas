@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Users\\biaac\\Downloads\\gson-2.13.1.jar",
+        "c:\\Users\\biaac\\OneDrive\\Escritorio\\Challenge Conversor de Monedas\\Conversordemonedas\\lib\\gson-2.13.1.jar"
+    ]
+}
